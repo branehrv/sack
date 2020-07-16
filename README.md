@@ -1,1 +1,3 @@
 # sack
+
+empty_sack
