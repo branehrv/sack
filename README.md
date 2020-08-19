@@ -1,5 +1,1 @@
-# sack
-
-empty_sack
-
-zavihajmo_rokave
+FRI 1 naloge
