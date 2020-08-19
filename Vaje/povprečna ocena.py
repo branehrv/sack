@@ -1,0 +1,5 @@
+ana = float(input("Ocena [Ana]? "))
+benjamin = float(input("Ocena [Benjamin]? "))
+cilka = float(input("Ocena [Cilka]? "))
+print("Povprečje:",(ana + benjamin + cilka)/3)
+print("Srednja vrednost:",ana + benjamin + cilka - max(ana,benjamin,cilka) - min(ana,benjamin,cilka)) 

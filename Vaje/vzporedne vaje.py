@@ -1,0 +1,5 @@
+x = int(input())
+y = str(x)
+y = int(len(y))
+y = 10**(y-1)
+print (y)
